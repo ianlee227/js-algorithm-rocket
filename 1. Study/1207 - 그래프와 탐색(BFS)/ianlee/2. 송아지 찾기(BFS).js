@@ -20,4 +20,4 @@ function solution(s, e) {
   return answer;
 }
 
-console.log(solution(8, 3));
+console.log(solution(5, 14));
